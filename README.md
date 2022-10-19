@@ -40,4 +40,4 @@ en un fichero de texto para poder cargarla en una ejecución posterior.
 
 En la opción 5 del manú (Detectar anomalias en tiempo real) el programa leerá mediciones por consola
 hasta que se le introduzca algo distinto a un número entero. De esta forma avisará cuando se introduzcan
-valores anómalos,
+valores anómalos.
