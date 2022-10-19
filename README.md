@@ -11,7 +11,7 @@ Esto lo consigue utilizando [Cadenas de Markov](https://en.wikipedia.org/wiki/Ma
 Se necesita [Java 18](https://www.oracle.com/java/technologies/javase/jdk18-archive-downloads.html) o superior
 para la ejecución del programa.
 
-```bash
+```
   java -jar <directorio>/AnomalyDetector.jar
 ```
 
